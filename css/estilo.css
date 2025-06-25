@@ -186,3 +186,14 @@ hr{
 .glosario {
 	list-style: none;
 }
+
+.imagen-contenido{
+	width: 800px;
+	height: 500px;
+}
+
+.imagen-contenido-vert{
+	width: 700px;
+	height: 800px;
+}
+
