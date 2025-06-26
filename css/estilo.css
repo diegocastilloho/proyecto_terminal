@@ -22,16 +22,15 @@ body{
 	background-position: top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	
-
 }
+
+
 #inicio{
 	text-align: center;
 	padding-bottom: 20px;
 	font-size: 26px;
 	color: #64430d;
 }
-
 
 
 p{
@@ -195,5 +194,18 @@ hr{
 .imagen-contenido-vert{
 	width: 700px;
 	height: 800px;
+}
+
+.contenedor {
+  max-width: 100%;
+  padding: 1rem;
+}
+
+.imagen-responsiva {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Centrado horizontal */
 }
 
